@@ -1,0 +1,16 @@
+
+    # user_text = Entry.get
+    # Entry = Entry(ws, width=30)
+    # Entry.pack(pady=20)
+    # ws = Tk()
+    # ws.title("Text Field Example")
+    # ws.geometry("300x150")
+
+
+
+
+
+#pad is the comand to make breathing room and in a 2d environment there are to axis Y and X and if you tell a button to pady its going to be horizontal and if you tell it 
+#to padx its gonna have breathing room to the left and right vertical
+
+
